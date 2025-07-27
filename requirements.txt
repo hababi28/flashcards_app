@@ -1,0 +1,7 @@
+npx create-expo-app flashcards-app
+cd flashcards-app
+npm install @react-navigation/native @react-navigation/native-stack react-native-screens react-native-safe-area-context react-native-gesture-handler
+
+npm install -g expo-cli
+
+npx expo install @react-native-async-storage/async-storage
